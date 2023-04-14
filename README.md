@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Go & Flutter
 
