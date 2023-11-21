@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Go & Flutter
+- A friendly reminder;  do not push to production on Fridays! Happy coding. 😊
 
